@@ -1,3 +1,7 @@
 body {
-	background: purple;
+	background: teal;
+}
+
+h1 {
+	font-size: 16rem;
 }
